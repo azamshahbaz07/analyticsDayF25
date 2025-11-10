@@ -1,0 +1,193 @@
+Year,CBSA_Name,CBSA_Code,Annual_VMT_Million_Miles,Traffic_Density_Index
+2010,"Atlanta-Sandy Springs-Roswell, GA",12060,95000.0,1.95
+2011,"Atlanta-Sandy Springs-Roswell, GA",12060,95880.5,1.96
+2012,"Atlanta-Sandy Springs-Roswell, GA",12060,96711.2,1.97
+2013,"Atlanta-Sandy Springs-Roswell, GA",12060,97604.1,1.98
+2014,"Atlanta-Sandy Springs-Roswell, GA",12060,98402.6,1.99
+2015,"Atlanta-Sandy Springs-Roswell, GA",12060,99055.9,2.00
+2016,"Atlanta-Sandy Springs-Roswell, GA",12060,99912.4,2.02
+2017,"Atlanta-Sandy Springs-Roswell, GA",12060,100850.7,2.04
+2018,"Atlanta-Sandy Springs-Roswell, GA",12060,101567.3,2.05
+2019,"Atlanta-Sandy Springs-Roswell, GA",12060,102290.5,2.07
+2020,"Atlanta-Sandy Springs-Roswell, GA",12060,86940.1,1.76
+2021,"Atlanta-Sandy Springs-Roswell, GA",12060,93500.8,1.89
+2022,"Atlanta-Sandy Springs-Roswell, GA",12060,98012.3,1.99
+2023,"Atlanta-Sandy Springs-Roswell, GA",12060,99580.4,2.02
+2024,"Atlanta-Sandy Springs-Rosswell, GA",12060,100511.9,2.04
+2025,"Atlanta-Sandy Springs-Roswell, GA",12060,101340.2,2.05
+2010,"Chicago-Naperville-Elgin, IL-IN-WI",16980,120000.0,2.60
+2011,"Chicago-Naperville-Elgin, IL-IN-WI",16980,120150.8,2.61
+2012,"Chicago-Naperville-Elgin, IL-IN-WI",16980,120390.4,2.62
+2013,"Chicago-Naperville-Elgin, IL-IN-WI",16980,120560.9,2.62
+2014,"Chicago-Naperville-Elgin, IL-IN-WI",16980,121025.3,2.63
+2015,"Chicago-Naperville-Elgin, IL-IN-WI",16980,121377.6,2.64
+2016,"Chicago-Naperville-Elgin, IL-IN-WI",16980,121901.1,2.65
+2017,"Chicago-Naperville-Elgin, IL-IN-WI",16980,122345.5,2.66
+2018,"Chicago-Naperville-Elgin, IL-IN-WI",16980,122905.7,2.68
+2019,"Chicago-Naperville-Elgin, IL-IN-WI",16980,123411.0,2.69
+2020,"Chicago-Naperville-Elgin, IL-IN-WI",16980,104899.4,2.28
+2021,"Chicago-Naperville-Elgin, IL-IN-WI",16980,113002.1,2.45
+2022,"Chicago-Naperville-Elgin, IL-IN-WI",16980,119055.8,2.58
+2023,"Chicago-Naperville-Elgin, IL-IN-WI",16980,120412.3,2.61
+2024,"Chicago-Naperville-Elgin, IL-IN-WI",16980,121400.9,2.64
+2025,"Chicago-Naperville-Elgin, IL-IN-WI",16980,122010.5,2.65
+2010,"Dallas-Fort Worth-Arlington, TX",19100,105000.0,1.80
+2011,"Dallas-Fort Worth-Arlington, TX",19100,106500.9,1.82
+2012,"Dallas-Fort Worth-Arlington, TX",19100,108010.4,1.85
+2013,"Dallas-Fort Worth-Arlington, TX",19100,109555.7,1.88
+2014,"Dallas-Fort Worth-Arlington, TX",19100,111302.5,1.91
+2015,"Dallas-Fort Worth-Arlington, TX",19100,113110.8,1.94
+2016,"Dallas-Fort Worth-Arlington, TX",19100,115004.9,1.98
+2017,"Dallas-Fort Worth-Arlington, TX",19100,117099.1,2.01
+2018,"Dallas-Fort Worth-Arlington, TX",19100,119312.3,2.05
+2019,"Dallas-Fort Worth-Arlington, TX",19100,121501.7,2.09
+2020,"Dallas-Fort Worth-Arlington, TX",19100,103276.4,1.78
+2021,"Dallas-Fort Worth-Arlington, TX",19100,111005.6,1.91
+2022,"Dallas-Fort Worth-Arlington, TX",19100,118507.9,2.04
+2023,"Dallas-Fort Worth-Arlington, TX",19100,121010.3,2.08
+2024,"Dallas-Fort Worth-Arlington, TX",19100,122505.7,2.10
+2025,"Dallas-Fort Worth-Arlington, TX",19100,124000.2,2.13
+2010,"Detroit-Warren-Dearborn, MI",19820,80000.0,1.75
+2011,"Detroit-Warren-Dearborn, MI",19820,79555.5,1.74
+2012,"Detroit-Warren-Dearborn, MI",19820,79310.2,1.73
+2013,"Detroit-Warren-Dearborn, MI",19820,79100.1,1.73
+2014,"Detroit-Warren-Dearborn, MI",19820,79505.9,1.74
+2015,"Detroit-Warren-Dearborn, MI",19820,79800.4,1.75
+2016,"Detroit-Warren-Dearborn, MI",19820,80150.3,1.76
+2017,"Detroit-Warren-Dearborn, MI",19820,80500.1,1.76
+2018,"Detroit-Warren-Dearborn, MI",19820,80905.7,1.77
+2019,"Detroit-Warren-Dearborn, MI",19820,81200.2,1.78
+2020,"Detroit-Warren-Dearborn, MI",19820,68910.8,1.51
+2021,"Detroit-Warren-Dearborn, MI",19820,74011.6,1.62
+2022,"Detroit-Warren-Dearborn, MI",19820,77905.4,1.70
+2023,"Detroit-Warren-Dearborn, MI",19820,78800.1,1.72
+2024,"Detroit-Warren-Dearborn, MI",19820,79350.5,1.73
+2025,"Detroit-Warren-Dearborn, MI",19820,79805.8,1.75
+2010,"Houston-The Woodlands-Sugar Land, TX",26420,100000.0,1.85
+2011,"Houston-The Woodlands-Sugar Land, TX",26420,101700.7,1.88
+2012,"Houston-The Woodlands-Sugar Land, TX",26420,103550.9,1.91
+2013,"Houston-The Woodlands-Sugar Land, TX",26420,105490.5,1.95
+2014,"Houston-The Woodlands-Sugar Land, TX",26420,107510.3,1.99
+2015,"Houston-The Woodlands-Sugar Land, TX",26420,109605.6,2.03
+2016,"Houston-The Woodlands-Sugar Land, TX",26420,111800.2,2.07
+2017,"Houston-The Woodlands-Sugar Land, TX",26420,114055.8,2.11
+2018,"Houston-The Woodlands-Sugar Land, TX",26420,116412.3,2.15
+2019,"Houston-The Woodlands-Sugar Land, TX",26420,118805.5,2.20
+2020,"Houston-The Woodlands-Sugar Land, TX",26420,101004.7,1.87
+2021,"Houston-The Woodlands-Sugar Land, TX",26420,108502.9,2.01
+2022,"Houston-The Woodlands-Sugar Land, TX",26420,116100.3,2.15
+2023,"Houston-The Woodlands-Sugar Land, TX",26420,118501.6,2.19
+2024,"Houston-The Woodlands-Sugar Land, TX",26420,120100.8,2.22
+2025,"Houston-The Woodlands-Sugar Land, TX",26420,121705.5,2.25
+2010,"Los Angeles-Long Beach-Anaheim, CA",31080,150000.0,3.10
+2011,"Los Angeles-Long Beach-Anaheim, CA",31080,150302.7,3.11
+2012,"Los Angeles-Long Beach-Anaheim, CA",31080,150555.2,3.12
+2013,"Los Angeles-Long Beach-Anaheim, CA",31080,150912.1,3.13
+2014,"Los Angeles-Long Beach-Anaheim, CA",31080,151105.8,3.13
+2015,"Los Angeles-Long Beach-Anaheim, CA",31080,151500.4,3.14
+2016,"Los Angeles-Long Beach-Anaheim, CA",31080,151805.9,3.15
+2017,"Los Angeles-Long Beach-Anaheim, CA",31080,152112.3,3.16
+2018,"Los Angeles-Long Beach-Anaheim, CA",31080,152402.6,3.16
+2019,"Los Angeles-Long Beach-Anaheim, CA",31080,152705.1,3.17
+2020,"Los Angeles-Long Beach-Anaheim, CA",31080,129799.4,2.69
+2021,"Los Angeles-Long Beach-Anaheim, CA",31080,139502.5,2.89
+2022,"Los Angeles-Long Beach-Anaheim, CA",31080,147055.3,3.05
+2023,"Los Angeles-Long Beach-Anaheim, CA",31080,148805.1,3.08
+2024,"Los Angeles-Long Beach-Anaheim, CA",31080,149800.7,3.10
+2025,"Los Angeles-Long Beach-Anaheim, CA",31080,150605.9,3.12
+2010,"New York-Newark-Jersey City, NY-NJ-PA",35620,180000.0,3.80
+2011,"New York-Newark-Jersey City, NY-NJ-PA",35620,180350.2,3.81
+2012,"New York-Newark-Jersey City, NY-NJ-PA",35620,180590.7,3.82
+2013,"New York-Newark-Jersey City, NY-NJ-PA",35620,180801.3,3.82
+2014,"New York-Newark-Jersey City, NY-NJ-PA",35620,181105.9,3.83
+2015,"New York-Newark-Jersey City, NY-NJ-PA",35620,181312.4,3.84
+2016,"New York-Newark-Jersey City, NY-NJ-PA",35620,181500.6,3.84
+2017,"New York-Newark-Jersey City, NY-NJ-PA",35620,181805.5,3.85
+2018,"New York-Newark-Jersey City, NY-NJ-PA",35620,182001.2,3.86
+2019,"New York-Newark-Jersey City, NY-NJ-PA",35620,182205.7,3.86
+2020,"New York-Newark-Jersey City, NY-NJ-PA",35620,154877.8,3.28
+2021,"New York-Newark-Jersey City, NY-NJ-PA",35620,166305.1,3.52
+2022,"New York-Newark-Jersey City, NY-NJ-PA",35620,175500.8,3.72
+2023,"New York-Newark-Jersey City, NY-NJ-PA",35620,177605.9,3.76
+2024,"New York-Newark-Jersey City, NY-NJ-PA",35620,178602.4,3.78
+2025,"New York-Newark-Jersey City, NY-NJ-PA",35620,179505.7,3.80
+2010,"Phoenix-Mesa-Scottsdale, AZ",38060,75000.0,1.60
+2011,"Phoenix-Mesa-Scottsdale, AZ",38060,75905.8,1.62
+2012,"Phoenix-Mesa-Scottsdale, AZ",38060,76700.3,1.64
+2013,"Phoenix-Mesa-Scottsdale, AZ",38060,77605.9,1.66
+2014,"Phoenix-Mesa-Scottsdale, AZ",38060,78401.4,1.68
+2015,"Phoenix-Mesa-Scottsdale, AZ",38060,79105.7,1.69
+2016,"Phoenix-Mesa-Scottsdale, AZ",38060,79800.2,1.71
+2017,"Phoenix-Mesa-Scottsdale, AZ",38060,80612.3,1.72
+2018,"Phoenix-Mesa-Scottsdale, AZ",38060,81405.5,1.74
+2019,"Phoenix-Mesa-Scottsdale, AZ",38060,82200.9,1.76
+2020,"Phoenix-Mesa-Scottsdale, AZ",38060,69850.1,1.49
+2021,"Phoenix-Mesa-Scottsdale, AZ",38060,75105.7,1.61
+2022,"Phoenix-Mesa-Scottsdale, AZ",38060,79001.2,1.69
+2023,"Phoenix-Mesa-Scottsdale, AZ",38060,80500.5,1.72
+2024,"Phoenix-Mesa-Scottsdale, AZ",38060,81505.8,1.74
+2025,"Phoenix-Mesa-Scottsdale, AZ",38060,82400.3,1.76
+2010,"San Diego-Carlsbad, CA",41740,60000.0,1.70
+2011,"San Diego-Carlsbad, CA",41740,60350.2,1.71
+2012,"San Diego-Carlsbad, CA",41740,60590.7,1.72
+2013,"San Diego-Carlsbad, CA",41740,60801.3,1.72
+2014,"San Diego-Carlsbad, CA",41740,61105.9,1.73
+2015,"San Diego-Carlsbad, CA",41740,61312.4,1.74
+2016,"San Diego-Carlsbad, CA",41740,61500.6,1.74
+2017,"San Diego-Carlsbad, CA",41740,61805.5,1.75
+2018,"San Diego-Carlsbad, CA",41740,62001.2,1.76
+2019,"San Diego-Carlsbad, CA",41740,62205.7,1.76
+2020,"San Diego-Carlsbad, CA",41740,52874.8,1.50
+2021,"San Diego-Carlsbad, CA",41740,56800.1,1.61
+2022,"San Diego-Carlsbad, CA",41740,59890.3,1.70
+2023,"San Diego-Carlsbad, CA",41740,61005.9,1.73
+2024,"San Diego-Carlsbad, CA",41740,61601.4,1.75
+2025,"San Diego-Carlsbad, CA",41740,62105.7,1.76
+2010,"San Francisco-Oakland-Hayward, CA",41884,70000.0,2.90
+2011,"San Francisco-Oakland-Hayward, CA",41884,70302.7,2.91
+2012,"San Francisco-Oakland-Hayward, CA",41884,70555.2,2.92
+2013,"San Francisco-Oakland-Hayward, CA",41884,70912.1,2.93
+2014,"San Francisco-Oakland-Hayward, CA",41884,71105.8,2.94
+2015,"San Francisco-Oakland-Hayward, CA",41884,71500.4,2.95
+2016,"San Francisco-Oakland-Hayward, CA",41884,71805.9,2.96
+2017,"San Francisco-Oakland-Hayward, CA",41884,72112.3,2.98
+2018,"San Francisco-Oakland-Hayward, CA",41884,72402.6,2.99
+2019,"San Francisco-Oakland-Hayward, CA",41884,72705.1,3.00
+2020,"San Francisco-Oakland-Hayward, CA",41884,61799.3,2.55
+2021,"San Francisco-Oakland-Hayward, CA",41884,66400.8,2.74
+2022,"San Francisco-Oakland-Hayward, CA",41884,70005.4,2.89
+2023,"San Francisco-Oakland-Hayward, CA",41884,71400.9,2.95
+2024,"San Francisco-Oakland-Hayward, CA",41884,72005.5,2.97
+2025,"San Francisco-Oakland-Hayward, CA",41884,72500.1,2.99
+2010,"Seattle-Tacoma-Bellevue, WA",42660,85000.0,1.85
+2011,"Seattle-Tacoma-Bellevue, WA",42660,86005.1,1.87
+2012,"Seattle-Tacoma-Bellevue, WA",42660,87010.4,1.89
+2013,"Seattle-Tacoma-Bellevue, WA",42660,88055.7,1.91
+2014,"Seattle-Tacoma-Bellevue, WA",42660,89112.3,1.93
+2015,"Seattle-Tacoma-Bellevue, WA",42660,90150.8,1.96
+2016,"Seattle-Tacoma-Bellevue, WA",42660,91205.9,1.98
+2017,"Seattle-Tacoma-Bellevue, WA",42660,92300.2,2.00
+2018,"Seattle-Tacoma-Bellevue, WA",42660,93405.1,2.02
+2019,"Seattle-Tacoma-Bellevue, WA",42660,94500.7,2.05
+2020,"Seattle-Tacoma-Bellevue, WA",42660,80311.2,1.74
+2021,"Seattle-Tacoma-Bellevue, WA",42660,86305.6,1.87
+2022,"Seattle-Tacoma-Bellevue, WA",42660,91050.1,1.98
+2023,"Seattle-Tacoma-Bellevue, WA",42660,92805.5,2.01
+2024,"Seattle-Tacoma-Bellevue, WA",42660,93700.8,2.03
+2025,"Seattle-Tacoma-Bellevue, WA",42660,94505.9,2.05
+2010,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,110000.0,2.30
+2011,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,110505.9,2.31
+2012,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,111001.4,2.32
+2013,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,111505.7,2.33
+2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,112000.2,2.34
+2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,112505.5,2.35
+2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,113000.1,2.36
+2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,113505.9,2.37
+2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,114001.2,2.38
+2019,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,114505.6,2.39
+2020,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,97329.8,2.03
+2021,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,104605.1,2.19
+2022,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,110200.4,2.30
+2023,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,112005.8,2.34
+2024,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,113001.1,2.36
+2025,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,113905.5,2.38

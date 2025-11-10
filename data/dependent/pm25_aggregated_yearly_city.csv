@@ -1,0 +1,193 @@
+Year,City,PM2.5
+2010,"Atlanta-Sandy Springs-Roswell, GA",9.287145697211155
+2011,"Atlanta-Sandy Springs-Roswell, GA",7.719383625730994
+2012,"Atlanta-Sandy Springs-Roswell, GA",7.078015005347593
+2013,"Atlanta-Sandy Springs-Roswell, GA",5.47356318705036
+2014,"Atlanta-Sandy Springs-Roswell, GA",7.731025902953586
+2015,"Atlanta-Sandy Springs-Roswell, GA",5.122806099378882
+2016,"Atlanta-Sandy Springs-Roswell, GA",5.1846248571428575
+2017,"Atlanta-Sandy Springs-Roswell, GA",5.710872609756097
+2018,"Atlanta-Sandy Springs-Roswell, GA",4.977388426136364
+2019,"Atlanta-Sandy Springs-Roswell, GA",4.4024348125
+2020,"Atlanta-Sandy Springs-Roswell, GA",3.9777732475247527
+2021,"Atlanta-Sandy Springs-Roswell, GA",3.809121596638655
+2022,"Atlanta-Sandy Springs-Roswell, GA",4.0217382843137255
+2023,"Atlanta-Sandy Springs-Roswell, GA",6.232566141304348
+2024,"Atlanta-Sandy Springs-Roswell, GA",4.671901717488789
+2025,"Atlanta-Sandy Springs-Roswell, GA",4.677372710691824
+2010,"Chicago-Naperville-Elgin, IL-IN-WI",6.485199376524391
+2011,"Chicago-Naperville-Elgin, IL-IN-WI",4.773623596421471
+2012,"Chicago-Naperville-Elgin, IL-IN-WI",5.010334195402299
+2013,"Chicago-Naperville-Elgin, IL-IN-WI",4.8842624539325845
+2014,"Chicago-Naperville-Elgin, IL-IN-WI",6.433286854452055
+2015,"Chicago-Naperville-Elgin, IL-IN-WI",6.656177579929989
+2016,"Chicago-Naperville-Elgin, IL-IN-WI",4.757789389057751
+2017,"Chicago-Naperville-Elgin, IL-IN-WI",4.454802876352396
+2018,"Chicago-Naperville-Elgin, IL-IN-WI",5.523245796502385
+2019,"Chicago-Naperville-Elgin, IL-IN-WI",5.5408471325301205
+2020,"Chicago-Naperville-Elgin, IL-IN-WI",5.312286571875
+2021,"Chicago-Naperville-Elgin, IL-IN-WI",5.690771993743483
+2022,"Chicago-Naperville-Elgin, IL-IN-WI",6.1094430543093265
+2023,"Chicago-Naperville-Elgin, IL-IN-WI",7.564412304889742
+2024,"Chicago-Naperville-Elgin, IL-IN-WI",4.6459012890624996
+2025,"Chicago-Naperville-Elgin, IL-IN-WI",4.615323852146264
+2010,"Dallas-Fort Worth-Arlington, TX",3.0083807421875
+2011,"Dallas-Fort Worth-Arlington, TX",3.1982689844357974
+2012,"Dallas-Fort Worth-Arlington, TX",3.1126425875486383
+2013,"Dallas-Fort Worth-Arlington, TX",3.06508506614786
+2014,"Dallas-Fort Worth-Arlington, TX",2.970605186770428
+2015,"Dallas-Fort Worth-Arlington, TX",3.6127742523809525
+2016,"Dallas-Fort Worth-Arlington, TX",3.218041298076923
+2017,"Dallas-Fort Worth-Arlington, TX",3.3165393236714977
+2018,"Dallas-Fort Worth-Arlington, TX",3.39503276076555
+2019,"Dallas-Fort Worth-Arlington, TX",4.129393593023256
+2020,"Dallas-Fort Worth-Arlington, TX",5.045636152866242
+2021,"Dallas-Fort Worth-Arlington, TX",2.6202010216049385
+2022,"Dallas-Fort Worth-Arlington, TX",4.334955171102662
+2023,"Dallas-Fort Worth-Arlington, TX",6.16216656
+2024,"Dallas-Fort Worth-Arlington, TX",5.474409280254777
+2025,"Dallas-Fort Worth-Arlington, TX",4.82022923566879
+2010,"Houston-The Woodlands-Sugar Land, TX",3.6207339875000004
+2011,"Houston-The Woodlands-Sugar Land, TX",3.85084272690763
+2012,"Houston-The Woodlands-Sugar Land, TX",3.758958325301205
+2013,"Houston-The Woodlands-Sugar Land, TX",4.307343198606271
+2014,"Houston-The Woodlands-Sugar Land, TX",4.252471171929825
+2015,"Houston-The Woodlands-Sugar Land, TX",4.000380895683453
+2016,"Houston-The Woodlands-Sugar Land, TX",2.836068339222615
+2017,"Houston-The Woodlands-Sugar Land, TX",3.0564372457337883
+2018,"Houston-The Woodlands-Sugar Land, TX",3.062300690972222
+2019,"Houston-The Woodlands-Sugar Land, TX",3.2831079968553456
+2020,"Houston-The Woodlands-Sugar Land, TX",4.286418306666667
+2021,"Houston-The Woodlands-Sugar Land, TX",3.450695388625592
+2022,"Houston-The Woodlands-Sugar Land, TX",4.194068220895523
+2023,"Houston-The Woodlands-Sugar Land, TX",4.47239555140187
+2024,"Houston-The Woodlands-Sugar Land, TX",4.042503296758105
+2025,"Houston-The Woodlands-Sugar Land, TX",5.106775602836879
+2010,"Los Angeles-Long Beach-Anaheim, CA",4.258245938775509
+2011,"Los Angeles-Long Beach-Anaheim, CA",4.933807604368932
+2012,"Los Angeles-Long Beach-Anaheim, CA",4.444403296912114
+2013,"Los Angeles-Long Beach-Anaheim, CA",5.8938160560538115
+2014,"Los Angeles-Long Beach-Anaheim, CA",6.950355592342342
+2015,"Los Angeles-Long Beach-Anaheim, CA",5.066231081395349
+2016,"Los Angeles-Long Beach-Anaheim, CA",4.354865466321243
+2017,"Los Angeles-Long Beach-Anaheim, CA",5.109292908433735
+2018,"Los Angeles-Long Beach-Anaheim, CA",5.447865031390135
+2019,"Los Angeles-Long Beach-Anaheim, CA",2.930871433615819
+2020,"Los Angeles-Long Beach-Anaheim, CA",7.0113371988071576
+2021,"Los Angeles-Long Beach-Anaheim, CA",5.356541127789047
+2022,"Los Angeles-Long Beach-Anaheim, CA",5.090495124444444
+2023,"Los Angeles-Long Beach-Anaheim, CA",3.6464877631578947
+2024,"Los Angeles-Long Beach-Anaheim, CA",5.167117340845071
+2025,"Los Angeles-Long Beach-Anaheim, CA",8.327750402985075
+2010,"Minneapolis-St. Paul-Bloomington, MN-WI",5.868313898550724
+2011,"Minneapolis-St. Paul-Bloomington, MN-WI",4.75151673364486
+2012,"Minneapolis-St. Paul-Bloomington, MN-WI",5.053122688034188
+2013,"Minneapolis-St. Paul-Bloomington, MN-WI",5.008707518796992
+2014,"Minneapolis-St. Paul-Bloomington, MN-WI",5.5938128311258275
+2015,"Minneapolis-St. Paul-Bloomington, MN-WI",5.2482299775
+2016,"Minneapolis-St. Paul-Bloomington, MN-WI",3.9574133255813955
+2017,"Minneapolis-St. Paul-Bloomington, MN-WI",4.05571504290429
+2018,"Minneapolis-St. Paul-Bloomington, MN-WI",4.586619800632912
+2019,"Minneapolis-St. Paul-Bloomington, MN-WI",4.314635835962145
+2020,"Minneapolis-St. Paul-Bloomington, MN-WI",3.891913479704797
+2021,"Minneapolis-St. Paul-Bloomington, MN-WI",3.66795892920354
+2022,"Minneapolis-St. Paul-Bloomington, MN-WI",4.709883242171189
+2023,"Minneapolis-St. Paul-Bloomington, MN-WI",6.950080804928131
+2024,"Minneapolis-St. Paul-Bloomington, MN-WI",3.9217686321428573
+2025,"Minneapolis-St. Paul-Bloomington, MN-WI",3.2235927335640135
+2010,"New York-Newark-Jersey City, NY-NJ-PA",4.506710530193237
+2011,"New York-Newark-Jersey City, NY-NJ-PA",5.193380596237337
+2012,"New York-Newark-Jersey City, NY-NJ-PA",4.560041483162519
+2013,"New York-Newark-Jersey City, NY-NJ-PA",4.288250981900452
+2014,"New York-Newark-Jersey City, NY-NJ-PA",3.845042775596073
+2015,"New York-Newark-Jersey City, NY-NJ-PA",3.5764619218362284
+2016,"New York-Newark-Jersey City, NY-NJ-PA",2.3916982861736336
+2017,"New York-Newark-Jersey City, NY-NJ-PA",3.2172697647058826
+2018,"New York-Newark-Jersey City, NY-NJ-PA",3.485086210810811
+2019,"New York-Newark-Jersey City, NY-NJ-PA",3.1924764989406778
+2020,"New York-Newark-Jersey City, NY-NJ-PA",3.0388117043378995
+2021,"New York-Newark-Jersey City, NY-NJ-PA",2.780931527536232
+2022,"New York-Newark-Jersey City, NY-NJ-PA",3.1265834192740924
+2023,"New York-Newark-Jersey City, NY-NJ-PA",5.531089694581281
+2024,"New York-Newark-Jersey City, NY-NJ-PA",3.154333585298197
+2025,"New York-Newark-Jersey City, NY-NJ-PA",2.402138971857411
+2010,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",6.100529256880733
+2011,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",5.047504058064516
+2012,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",5.4472363193473194
+2013,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",5.029033961409396
+2014,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",4.272342871287129
+2015,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3.8398499485714286
+2016,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3.1379964148148147
+2017,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3.2337252970297032
+2018,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3.966430990373045
+2019,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3.3158452745341616
+2020,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",4.123060986682808
+2021,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3.661229076845298
+2022,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3.9742010361145708
+2023,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",6.776702551409619
+2024,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3.0214405379310345
+2025,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3.087601875
+2010,"Phoenix-Mesa-Scottsdale, AZ",2.7959478901960786
+2011,"Phoenix-Mesa-Scottsdale, AZ",4.993780021929824
+2012,"Phoenix-Mesa-Scottsdale, AZ",5.27775719121447
+2013,"Phoenix-Mesa-Scottsdale, AZ",4.412769904225352
+2014,"Phoenix-Mesa-Scottsdale, AZ",3.6881974620123206
+2015,"Phoenix-Mesa-Scottsdale, AZ",3.0167138381294962
+2016,"Phoenix-Mesa-Scottsdale, AZ",4.9133380853658535
+2017,"Phoenix-Mesa-Scottsdale, AZ",5.193865614942529
+2018,"Phoenix-Mesa-Scottsdale, AZ",5.648784850840336
+2019,"Phoenix-Mesa-Scottsdale, AZ",3.692077538235294
+2020,"Phoenix-Mesa-Scottsdale, AZ",5.520851326704546
+2021,"Phoenix-Mesa-Scottsdale, AZ",4.186774397468355
+2022,"Phoenix-Mesa-Scottsdale, AZ",4.806181492268041
+2023,"Phoenix-Mesa-Scottsdale, AZ",4.514942233933162
+2024,"Phoenix-Mesa-Scottsdale, AZ",5.457631920086393
+2025,"Phoenix-Mesa-Scottsdale, AZ",6.159653618025751
+2010,"Pittsburgh, PA",5.974086469072165
+2011,"Pittsburgh, PA",5.346622510362694
+2012,"Pittsburgh, PA",5.118676873170732
+2013,"Pittsburgh, PA",4.988902197560975
+2014,"Pittsburgh, PA",4.990849656097561
+2015,"Pittsburgh, PA",4.390752792951542
+2016,"Pittsburgh, PA",4.303554462184874
+2017,"Pittsburgh, PA",4.5839259040816325
+2018,"Pittsburgh, PA",4.809462209059234
+2019,"Pittsburgh, PA",4.186888445
+2020,"Pittsburgh, PA",4.099919039556962
+2021,"Pittsburgh, PA",3.7045082752808987
+2022,"Pittsburgh, PA",4.755537546255506
+2023,"Pittsburgh, PA",6.173943883553422
+2024,"Pittsburgh, PA",3.3431854810126582
+2025,"Pittsburgh, PA",3.3831535768421053
+2010,"San Diego-Carlsbad, CA",3.727558756756757
+2011,"San Diego-Carlsbad, CA",4.369803068292683
+2012,"San Diego-Carlsbad, CA",4.636833417293233
+2013,"San Diego-Carlsbad, CA",4.116223592307692
+2014,"San Diego-Carlsbad, CA",3.758778646687697
+2015,"San Diego-Carlsbad, CA",3.718586315
+2016,"San Diego-Carlsbad, CA",3.5367666822429906
+2017,"San Diego-Carlsbad, CA",4.130304503875968
+2018,"San Diego-Carlsbad, CA",5.214159671328671
+2019,"San Diego-Carlsbad, CA",4.545917676300578
+2020,"San Diego-Carlsbad, CA",5.949861671957672
+2021,"San Diego-Carlsbad, CA",3.9990854979253116
+2022,"San Diego-Carlsbad, CA",5.688321870967742
+2023,"San Diego-Carlsbad, CA",6.223334063205418
+2024,"San Diego-Carlsbad, CA",5.607934789473685
+2025,"San Diego-Carlsbad, CA",2.642578189473684
+2010,"Seattle-Tacoma-Bellevue, WA",2.339226835758836
+2011,"Seattle-Tacoma-Bellevue, WA",2.1934550743099788
+2012,"Seattle-Tacoma-Bellevue, WA",2.699022192592593
+2013,"Seattle-Tacoma-Bellevue, WA",2.9260956358695656
+2014,"Seattle-Tacoma-Bellevue, WA",2.4192622453271024
+2015,"Seattle-Tacoma-Bellevue, WA",2.7665571390041497
+2016,"Seattle-Tacoma-Bellevue, WA",2.1153029708737865
+2017,"Seattle-Tacoma-Bellevue, WA",2.8111168474178405
+2018,"Seattle-Tacoma-Bellevue, WA",2.240170820652174
+2019,"Seattle-Tacoma-Bellevue, WA",2.1418215459098495
+2020,"Seattle-Tacoma-Bellevue, WA",2.349805830018083
+2021,"Seattle-Tacoma-Bellevue, WA",1.5160063342354533
+2022,"Seattle-Tacoma-Bellevue, WA",2.394896917562724
+2023,"Seattle-Tacoma-Bellevue, WA",2.706134890140845
+2024,"Seattle-Tacoma-Bellevue, WA",2.225478152737752
+2025,"Seattle-Tacoma-Bellevue, WA",3.695541265917603
