@@ -57,5 +57,4 @@ def aggregate_pm25_data(input_file, output_file, pm_params):
     except Exception as e:
         print(f"An unexpected error occurred during aggregation: {e}")
 
-# --- Execute the function ---
 aggregate_pm25_data(INPUT_FILENAME, OUTPUT_FILENAME, PM25_PARAMETERS)
